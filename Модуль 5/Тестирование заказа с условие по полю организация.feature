@@ -56,6 +56,7 @@
 
 //Переменные:
 //	СсылкаНаЗаказ = 'e1cib/data/Document.SalesOrder?ref=b76cbacb2511e57d11ebeab0dfce222c'
+	И я удаляю переменную 'СсылкаНаЗаказ'
 	И Я запоминаю в переменную "$$СсылкаНаЗаказ$$" значение 'e1cib/data/Document.SalesOrder?ref=b76cbacb2511e57d11ebeab0dfce222c'
 	
 
